@@ -1,7 +1,8 @@
 # CorridaInfinitaUnreal4.24
-UNREAL - CORRIDA INFINITA  é um jogo no qual você deve evitar ao máximo os obstáculos para se tornar o maior corredor de todos os tempos.
 
 [![Watch the video](https://img.itch.zone/aW1nLzQ0OTkyMzEuanBn/347x500/gRS2b2.jpg)](https://youtu.be/YWO6EMCddSk)
+
+UNREAL - CORRIDA INFINITA  é um jogo no qual você deve evitar ao máximo os obstáculos para se tornar o maior corredor de todos os tempos.
 
 O jogo corrida infinita serviu como projeto para as aulas de tópicos especiais  para as turmas do curso tecnólogo em Jogos Digitais da universidade [UNOESTE](http://unoeste.br/).
 
